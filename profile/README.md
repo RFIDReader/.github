@@ -1,5 +1,3 @@
-## RFID Reader Mark 3
-
 ![Blueprint](/blueprint.jpeg)
 
 <!--
