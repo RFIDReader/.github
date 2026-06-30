@@ -1,5 +1,7 @@
 ## RFID Reader Mark 3
 
+![Blueprint](/blueprint.jpeg)
+
 <!--
 
 **Here are some ideas to get you started:**
